@@ -27,11 +27,6 @@ Founded in **2022**, Econising collaborates with various sectors to support init
 
 ---
 
-## 📷 Preview  
-*(Add a screenshot of the website for better presentation)*
-
----
-
 ## 📄 License
 This project was created for the **HIEDESCOM 2022 Competition** held by **Airlangga University**.  
 All rights reserved © 2022 Econising.
